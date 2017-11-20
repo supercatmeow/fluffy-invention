@@ -1,0 +1,143 @@
+
+
+/* introduction section*/
+.intro-section{
+  background-color:#0271FF;
+  
+}
+.intro-words{
+  padding-top:20em;
+  padding-bottom:30em;
+}
+.name{
+  font-family:Amatic SC;
+  font-size:10em;
+  text-align:center;
+  color:white;
+}
+.sub-name{
+  font-family:comfortaa;
+  font-size:2em;
+  color:white;
+  text-align:center;
+}
+/* end of introduction section */
+/* start of description section */
+.des-section{
+  background-color:#0271FF;
+  padding-bottom:10em;
+}   
+.des-header{
+  font-family:satisfy;
+  font-size:3.5em;
+  color:white;
+  text-align:center;
+}
+.profile-pic{
+  width:80%;
+  padding-top:4em;
+  padding-left:4em;
+  
+}
+.exposition{
+  font-family:comfortaa;
+  font-size:1.6em;
+  color:white;
+  text-align:left;
+}
+.skillhtml{
+  font-size:1.6em;
+}
+/* end of description section/start of portfolio section */
+.portfolio{
+  padding-top:7em;
+}
+.port-header{
+  font-family:satisfy;
+  font-size:3.5em;
+  color:black;
+  text-align:center;
+  margin-bottom:1em;
+}
+.hr1{
+border:1px solid grey;
+margin-left:150px;
+margin-right:150px;
+}
+.proj1{
+  width:75%;
+  float:right;
+  border:0.1em solid grey;
+  border-radius:2%;
+}
+.projects{
+  margin-top:3em;
+}
+.projects-last{
+  margin-top:3em;
+  padding-bottom:3em;
+}
+.proj-header{
+  text-align:center;
+  font-family:satisfy;
+  font-size:2.5em;
+  color:black;
+}
+.proj-expo{
+  color:black;
+  font-size:1.3em;
+  font-family:comfortaa;
+}
+.proj-expo2{
+  color:black;
+  font-size:1.3em;
+  font-family:comfortaa;
+  padding-left:7em;
+  float:right;
+}
+.proj-pic2{
+  width:90%;
+  border:0.1em solid grey;
+  border-radius:2%;
+}
+/* end of portfolio section */
+/* start of contact section */
+.contact{
+  background-color:#0271FF;
+}
+.getintouch{
+  font-family:comfortaa;
+  font-size:4em;
+  text-align:center;
+  color:white;
+  padding-top:1em;
+}
+.hr2{
+border:1px solid white;
+margin-left:600px;
+margin-right:600px;
+}
+.contact-header{
+  font-family:comfortaa;
+  font-size:3em;
+  text-align:center;
+  color:white;
+}
+.contact-info{
+  font-family:comfortaa;
+  font-size:2em;
+  text-align:center;
+  color:white;
+  padding-top:0.5em;
+}
+.social-links a {
+  margin: 5px;
+  color: white;
+  font-size: 3em;
+  font-align:center;
+}
+
+.social-links{
+  text-align:center;
+  
+}
